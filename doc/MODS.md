@@ -2,13 +2,13 @@
 
 ## Challenge / Desafios Nuevos
 
-### Time limit
+### Tiempo Limite
 
 Select the `GameLogic` node. From the Inspector, under `Challenges`, you
 can set a time limit. The player must achieve the win condition(s) before
 the specified time elapses, otherwise they lose.
 
-### Número de vidas
+### Cantidad de vidas
 
 Select the `GameLogic` node. From the Inspector, under `Challenges`, you
 can customise the number of lives. The player will lose a life every time
